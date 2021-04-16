@@ -1,4 +1,13 @@
 body {
   background-color: bisque;
+}
+
+h1 {
   color: darkgreen;
+  text-align: center;
+}
+
+p {
+  color: blueviolet;
+  text-align: center;
 }
